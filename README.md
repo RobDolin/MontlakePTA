@@ -7,6 +7,7 @@ Below is an inventory of current communication resources
 * Seattle Public Schools
   * Website: https://www.seattleschools.org/
   * District Calendar: https://www.seattleschools.org/district/calendars/district_calendar
+  * TXT Messages: https://www.schoolmessenger.com/txt
 
 * Montlake Elementary
   * School Webesite: https://montlakees.seattleschools.org/
