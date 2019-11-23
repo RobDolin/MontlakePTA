@@ -11,7 +11,7 @@ Below is an inventory of current communication resources
 * Montlake Elementary
   * School Webesite: https://montlakees.seattleschools.org/
   * School Calendar: https://montlakees.seattleschools.org/about/calendar_and_news/calendar
-  * Student and Family POrtals: https://www.seattleschools.org/cms/One.aspx?portalId=627&pageId=1166719
+  * Student and Family Portals: https://www.seattleschools.org/cms/One.aspx?portalId=627&pageId=1166719
   * Pre-recorded audio announcements (ex: Please donate to annual fund)
 
 * Montlake PTA
