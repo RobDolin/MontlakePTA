@@ -16,7 +16,11 @@ Below is an inventory of current communication resources
 
 * Montlake PTA
   * Montlake PTA Website: https://montlakepta.org/ (WordPress)
-  * Montlake PTA Events Calendar: https://montlakepta.org/index.php/events/
+    * Events Calendar: https://montlakepta.org/index.php/events/
+  * Montlake PTA Domain: MontlakePTA.org
+    * Domain Email Aliases (ex: President@MontlakePTA.org) 
+  * Montlake PTA Member Planet: https://www.memberplanet.com/montlakecommunitypta 
+    * Member Planet for Donations: https://www.memberplanet.com/campaign/montlakecommunitypta/annualfund2019 
 
 * Other
   * Bloomz - App used by Ms. Jude (K)
