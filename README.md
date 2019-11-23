@@ -23,4 +23,7 @@ Below is an inventory of current communication resources
     * Member Planet for Donations: https://www.memberplanet.com/campaign/montlakecommunitypta/annualfund2019 
 
 * Other
-  * Bloomz - App used by Ms. Jude (K)
+  * Launch (after school proram): http://www.launchlearning.org/
+    * Launch Calendar: http://www.launchlearning.org/for-families/calendar/
+  * Schoolze (potential platform): https://www.schoolze.com/
+  * Bloomz (App): https://www.bloomz.net/ (Used by Ms. Jude (K) )
