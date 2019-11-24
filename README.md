@@ -25,6 +25,9 @@ Below is an inventory of current communication resources
     * Domain Email Aliases (ex: President@MontlakePTA.org) 
   * Member Planet: https://www.memberplanet.com/montlakecommunitypta 
     * Member Planet for Donations: https://www.memberplanet.com/campaign/montlakecommunitypta/annualfund2019 
+  * Azure (cloud): (mentioned in email from Mary Beth to Greg L)
+  * Office 365: (metioned in email from Mary Beth to Greg L)
+  * SharePoint: (mentioned in email from Lisa )
 
 * Other
   * Launch (after school proram): http://www.launchlearning.org/
