@@ -26,7 +26,14 @@ Below is an inventory of current communication resources
   * Domain: MontlakePTA.org
     * Domain Email Aliases (ex: President@MontlakePTA.org) 
   * Member Planet: https://www.memberplanet.com/montlakecommunitypta 
-    * Member Planet for Donations: https://www.memberplanet.com/campaign/montlakecommunitypta/annualfund2019 
+    * Member Planet for Donations: https://www.memberplanet.com/campaign/montlakecommunitypta/annualfund2019
+  * Classroom Email Lists
+    * Including teacher: RoomAdams@MontlakePTA.org, RoomBinkow@MontlakePTA.org, ...
+    * Families only: RoomAdamsSecret@MontlakePTA.org, RoomBinkowSecret@MontlakePTA.org, ...
+  * BuzzBook: Directory
+    * Queries: mailto:BuzzBook@MontlakePTA.org?subject=name
+    * Room: mailto:BuzzBook@MontlakePTA.org?subject=room+yorde
+    * Support: BuzzBookSupport@MontlakePTA.org
   * Azure (cloud): (mentioned in email from Mary Beth to Greg L)
   * Office 365: (metioned in email from Mary Beth to Greg L)
   * SharePoint: (mentioned in email from Lisa )
