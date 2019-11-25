@@ -36,7 +36,9 @@ Below is an inventory of current communication resources
     * Support: BuzzBookSupport@MontlakePTA.org
   * Azure (cloud): (mentioned in email from Mary Beth to Greg L)
   * Office 365: (metioned in email from Mary Beth to Greg L)
-  * SharePoint: (mentioned in email from Lisa )
+  * SharePoint: (mentioned in email from Lisa)
+  * PayPal account: (to be closed per email from Mary Beth)
+  * QuickBooks: (used by Treasurers)
 
 * Other
   * Launch (after school proram): http://www.launchlearning.org/
