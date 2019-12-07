@@ -34,6 +34,10 @@ Below is an inventory of current communication resources
     * Queries: mailto:BuzzBook@MontlakePTA.org?subject=name
     * Room: mailto:BuzzBook@MontlakePTA.org?subject=room+yorde
     * Support: BuzzBookSupport@MontlakePTA.org
+  * Schoolze (being tested as potential CMS)
+    * (Intranet) Website: https://secure.schoolze.com/i/montlake/c/montlake-pta
+    * (Public) Website: https://montlake.pta.schoolzesites.com/
+    * Document Repository: https://secure.schoolze.com/i/montlake/c/montlake-pta/documents
   * Azure (cloud): (mentioned in email from Mary Beth to Greg L)
   * Office 365: (metioned in email from Mary Beth to Greg L)
   * SharePoint: (mentioned in email from Lisa)
