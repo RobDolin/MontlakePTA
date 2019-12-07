@@ -38,6 +38,8 @@ Below is an inventory of current communication resources
     * (Intranet) Website: https://secure.schoolze.com/i/montlake/c/montlake-pta
     * (Public) Website: https://montlake.pta.schoolzesites.com/
     * Document Repository: https://secure.schoolze.com/i/montlake/c/montlake-pta/documents
+  * Facebook page: https://www.facebook.com/montlakepta (256 likes / 271 follows as of 2019-12-07)
+  * Twitter: https://twitter.com/montlakepta (33 followers as of 2019-12-07)
   * Azure (cloud): (mentioned in email from Mary Beth to Greg L)
   * Office 365: (metioned in email from Mary Beth to Greg L)
   * SharePoint: (mentioned in email from Lisa)
