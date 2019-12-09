@@ -1,5 +1,6 @@
 # MontlakePTA
 For collaboration among the communications team of the Montlake Elementary PTA of Seattle, WA
+You can suggest an edit by clicing the "Edit this File" pencil icon (top right.)  The file is a text file written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Current Resources
 Below is an inventory of current communication resources
