@@ -1,4 +1,6 @@
 # Communications Requirements
+Below is a a list of Montlake PTA communications requirements.
+You can suggest an edit by clicing the "Edit this File" pencil icon (top right.)  The file is a text file written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Public Website
 * Content Management System (CMS)
