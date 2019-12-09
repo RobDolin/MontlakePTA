@@ -34,3 +34,10 @@ If it ain't broke, don't fix it ;)
 
 ## Out of Scope - vNext
 Does not exist and not immediately needed
+
+## Solutions to be Considered:
+Below are top solutions to be considered: (sorted Alpha)
+* Constant Contact
+* MailChimp
+* Schoolze - https://www.schoolze.com/pta
+* WordPress - https://www.WordPress.com/ 
