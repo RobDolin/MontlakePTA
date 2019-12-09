@@ -37,7 +37,11 @@ Does not exist and not immediately needed
 
 ## Solutions to be Considered:
 Below are top solutions to be considered: (sorted Alpha)
-* Constant Contact
-* MailChimp
-* Schoolze - https://www.schoolze.com/pta
-* WordPress - https://www.WordPress.com/ 
+
+| Service | Public Website | Private Website | Payments | Email |
+|:--------|:---------------|:----------------|:---------|:------|
+| Constant Contact | Yes | No | Unsure | Yes |
+| MailChimp | Unsure | Unsure | Unsure | Yes | 
+| MemberPlanet | Yes | Yes | Yes | Yes |
+| [Schoolze](https://www.schoolze.com/pta) | Yes | Yes | Yes | Yes |
+| WordPress.com | Yes | Maybe | Unsure | Unsure |
