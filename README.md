@@ -4,7 +4,7 @@ For collaboration among the communications team of the Montlake Elementary PTA o
 You can suggest an addition or edit by emailing Rob D. or clicing the "Edit this File" pencil icon (top right.)  The file is a text file written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Proposed Process
-1. Build an inventory of current communication resources
+1. Compile an inventory of current communication resources
 2. Identify customers
 3. Collect customer requirements via conversations (in-person, call, TXT, or email) and possibly a short survey
 4. Evaluate potential tools
