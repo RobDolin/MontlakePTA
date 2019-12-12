@@ -1,6 +1,14 @@
 # MontlakePTA
 For collaboration among the communications team of the Montlake Elementary PTA of Seattle, WA
-You can suggest an edit by clicing the "Edit this File" pencil icon (top right.)  The file is a text file written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+You can suggest an addition or edit by emailing Rob D. or clicing the "Edit this File" pencil icon (top right.)  The file is a text file written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+## Proposed Process
+1. Build an inventory of current communication resources
+2. Identify customers
+3. Collect customer requirements via conversations (in-person, call, TXT, or email) and possibly a short survey
+4. Evaluate potential tools
+5. Based on customer requirements, recommend a set of tools at Jan 2020 Montlake PTA board meeting
 
 ## Current Resources
 Below is an inventory of current communication resources
@@ -17,9 +25,9 @@ Below is an inventory of current communication resources
   * Calendar: https://montlakees.seattleschools.org/about/calendar_and_news/calendar
   * Weekly Bulletin (email): montlakenews@seattleschools.org
     * Submissions: montlakenews@seattleschools.org
-    * Editors: [Daisy Lukas](mailto:adgrantlukas@seattleschools.org) and Julie Pearson
+    * Editors: [Daisy Lukas](mailto:adgrantlukas@seattleschools.org) and (Principal) Julie Pearson
   * Student and Family Portals: https://www.seattleschools.org/cms/One.aspx?portalId=627&pageId=1166719
-  * Pre-recorded audio announcements (ex: Please donate to annual fund)
+  * Pre-recorded audio announcements (ex: "No school on Veterans Day")
 
 * Montlake PTA
   * Website: https://montlakepta.org/ (WordPress)
