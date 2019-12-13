@@ -43,6 +43,8 @@ Below is an inventory of current communication resources
     * Queries: mailto:BuzzBook@MontlakePTA.org?subject=name
     * Room: mailto:BuzzBook@MontlakePTA.org?subject=room+yorde
     * Support: BuzzBookSupport@MontlakePTA.org
+  * Volunteer Sign-ups: SignUpGenius.com
+    * Ex: Epic Pizza Party in Dec 2019: https://www.signupgenius.com/go/20f0c45aeab2ea3f58-2ndand
   * Schoolze (being tested as potential CMS)
     * (Intranet) Website: https://secure.schoolze.com/i/montlake/c/montlake-pta
     * (Public) Website: https://montlake.pta.schoolzesites.com/
