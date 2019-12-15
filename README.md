@@ -45,6 +45,9 @@ Below is an inventory of current communication resources
     * Support: BuzzBookSupport@MontlakePTA.org
   * Volunteer Sign-ups: SignUpGenius.com
     * Ex: Epic Pizza Party in Dec 2019: https://www.signupgenius.com/go/20f0c45aeab2ea3f58-2ndand
+  * Auction (2019): https://montlakepta.schoolauction.net/auction2019/
+    * Catalog: https://montlakepta.schoolauction.net/auction2019/catalog
+    * Donate Item: https://montlakepta.schoolauction.net/auction2019/donate_items/new
   * Schoolze (being tested as potential CMS)
     * (Intranet) Website: https://secure.schoolze.com/i/montlake/c/montlake-pta
     * (Public) Website: https://montlake.pta.schoolzesites.com/
