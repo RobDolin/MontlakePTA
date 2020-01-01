@@ -9,6 +9,9 @@ You can suggest an addition or edit by emailing Rob D. or clicing the "Edit this
 3. Collect customer requirements via conversations (in-person, call, TXT, or email) and possibly a short survey
 4. Evaluate potential tools
 5. Based on customer requirements, recommend a set of tools at Jan 2020 Montlake PTA board meeting
+6. (If approved by PTA Board) Implement public-facing website and broadcast email system by Jan 31st
+7. Support use in Spring 2020
+8. Collect customer feedback and implement changes in Summer 2020
 
 ## Current Resources
 Below is an inventory of current communication resources
