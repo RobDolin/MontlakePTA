@@ -19,6 +19,8 @@ Below is an inventory of current communication resources
   * Monthly Newsletter: School Beat
     * Submissions: GoodNews@SeattleSchools.org
   * TXT Messages: https://www.schoolmessenger.com/txt
+  * Student and Family Portals: https://www.seattleschools.org/cms/One.aspx?portalId=627&pageId=1166719
+  * Pre-recorded audio announcements (ex: "No school on Veterans Day")
 
 * Montlake Elementary
   * Website: https://montlakees.seattleschools.org/
@@ -26,8 +28,6 @@ Below is an inventory of current communication resources
   * Weekly Bulletin (email): montlakenews@seattleschools.org
     * Submissions: montlakenews@seattleschools.org
     * Editors: [Daisy Lukas](mailto:adgrantlukas@seattleschools.org) and (Principal) Julie Pearson
-  * Student and Family Portals: https://www.seattleschools.org/cms/One.aspx?portalId=627&pageId=1166719
-  * Pre-recorded audio announcements (ex: "No school on Veterans Day")
 
 * Montlake PTA
   * Website: https://montlakepta.org/ (WordPress)
