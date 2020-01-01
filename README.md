@@ -30,7 +30,7 @@ Below is an inventory of current communication resources
   * Calendar: https://montlakees.seattleschools.org/about/calendar_and_news/calendar
   * Weekly Bulletin (email): montlakenews@seattleschools.org
     * Submissions: montlakenews@seattleschools.org
-    * Editors: [Daisy Lukas](mailto:adgrantlukas@seattleschools.org), (Principal) Julie Pearson, and (volunteer) Vivia van Gelder
+    * Editors: [Daisy Lukas](mailto:adgrantlukas@seattleschools.org), (Principal) Julie Pearson, and (volunteer) Vivian van Gelder
 
 * Montlake PTA
   * Website: https://montlakepta.org/ (WordPress)
