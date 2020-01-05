@@ -13,9 +13,17 @@ Contact info
 * Phone
 
 For which role are you completing this survey?
-* President / Chair
-* Vice President / Vice Chair
-* …
+* President
+* Vice President
+* Treasurer
+* Secretary
+* Communications Chair
+* Internal Outreach
+* External Outreach
+* Volunteer Coordinator
+* Legislative Advocacy
+* Fundraising
+* Building Leadership Team (BLT) Rep.
 * Other
 
 Which school year did you serve?
